@@ -7,7 +7,7 @@
 
 ## Summary
 
-I am a **Healthcare Data Scientist and Applied Machine Learning Engineer** with expertise in healthcare analytics, predictive modeling, and large-scale data systems.
+I am a **Healthcare Data Scientist/Analyst with expertise in healthcare analytics, predictive modeling, and large-scale data systems.
 
 My work focuses on developing and deploying data-driven solutions for real-world problems in healthcare, including cost modeling, population health optimization, and AI-powered decision support systems. I am particularly interested in integrating machine learning, optimization, and domain knowledge to improve care delivery and resource allocation.
 
