@@ -1,139 +1,97 @@
 # Joanna (Chiao-Ting) Chang
 
-🎯 Healthcare AI | Data Science | Applied ML | Cloud  
-📍 Pittsburgh, PA | 🎓 Carnegie Mellon University (MS HCAIT, May 2026)
+📧 joannachang1028@gmail.com | 💼 LinkedIn | 📍 Pittsburgh, PA, USA  
+🎓 Carnegie Mellon University (MS Healthcare Analytics & IT, May 2026)
 
 ---
 
-## 👋 About Me
+## Summary
 
-I’m a **Healthcare Data Scientist & AI Engineer** focused on solving real-world problems at the intersection of:
+I am a **Healthcare Data Scientist and Applied Machine Learning Engineer** with expertise in healthcare analytics, predictive modeling, and large-scale data systems.
 
-- 🏥 Healthcare systems (claims, EHR, population health)
-- 🤖 AI/ML (predictive modeling, LLMs, optimization)
-- ☁️ Scalable infrastructure (cloud + MLOps)
+My work focuses on developing and deploying data-driven solutions for real-world problems in healthcare, including cost modeling, population health optimization, and AI-powered decision support systems. I am particularly interested in integrating machine learning, optimization, and domain knowledge to improve care delivery and resource allocation.
 
-My work centers on **translating complex data into actionable decisions** — from cost optimization and care delivery to AI-powered systems.
-
-Before CMU, I spent ~5 years in **life sciences (Merck, Johnson & Johnson)**, where I learned how data actually drives (or fails to drive) decisions in clinical and commercial settings.
-
-Now, I build systems that close that gap.
+With prior experience in life sciences (Merck, Johnson & Johnson), I bring a unique perspective in translating complex clinical and operational data into actionable insights that drive measurable impact.
 
 ---
 
-## 🔥 What I’m Currently Working On
+## Technical Skills
 
-### 🧬 Cancer Cost Trajectory Modeling (Highmark Health)
-- Built **Group-Based Trajectory Modeling (GBTM)** on 3K+ patients / 240K+ claims  
-- Identified cost drivers and intervention opportunities  
-- → 💡 Estimated **$10M+ savings potential**
+**Programming**  
+Python (Pandas, Scikit-learn, PyTorch, TensorFlow), SQL, R  
 
-### 🎬 Nextflix Recommender System (Production ML System)
-- Benchmarked **CF vs Two-Tower models** on 10M interactions  
-- Improved Recall@20 from **0.0064 → 0.0665**
-- Built:
-  - FastAPI + BentoML inference service  
-  - Drift detection + schema validation  
-  - Cold-start personalization via text embeddings
+**AI / Machine Learning**  
+Machine Learning, Deep Learning, Large Language Models (RAG, evaluation),  
+Time Series Analysis, Anomaly Detection, NLP, Predictive Modeling, Causal Inference  
 
-### 🏥 Predict-Then-Optimize (Healthcare ML)
-- Built ML pipeline for diabetic readmission prediction  
-- Designed **cost-aware intervention optimization framework**  
-- → 💡 Estimated **$2.2M savings**
+**Data & Systems**  
+ETL / ELT Pipelines, Feature Engineering, Data Validation, Model Monitoring, MLOps  
 
-### 🧠 RAG-based AI System (FitScience Coach)
-- Built end-to-end **RAG pipeline (GPT-4o-mini + FAISS)**  
-- Achieved **0.857 RAGAs accuracy**  
-- Deployed interactive **Streamlit AI advisory tool**
+**Cloud & Tools**  
+AWS (SAA-C03), Google Cloud Platform (BigQuery, Vertex AI), Docker, Kubernetes,  
+Apache Spark, Kafka, Git/GitHub  
 
 ---
 
-## 🧠 Technical Skills
+## Experience Highlights
 
-### 💻 Programming
-- Python (Pandas, Scikit-learn, PyTorch, TensorFlow)
-- SQL, R
+**Highmark Health (2026 – Present)**  
+- Developed Group-Based Trajectory Modeling (GBTM) pipeline on 3K+ patients and 240K+ claims  
+- Identified cost drivers and proposed targeted interventions with ~$10M savings potential  
 
-### 🤖 AI / Data Science
-- Machine Learning, Deep Learning  
-- LLMs (RAG, evaluation, prompt design)  
-- Time Series, Anomaly Detection  
-- Causal Inference (A/B testing, DiD, PSM)  
-- Explainability (SHAP)
+**Carnegie Mellon University – AIMSEC (2025)**  
+- Designed a prediction-to-optimization framework for Hospital-at-Home systems  
+- Integrated 150K+ EHR records via BigQuery to support scalable analytics  
 
-### ⚙️ Data & ML Systems
-- ETL / ELT pipelines  
-- Feature engineering  
-- Data validation & drift detection  
-- MLOps & model serving
+**Merck KGaA (2022 – 2024)**  
+- Applied data-driven strategies to oncology portfolio, achieving 32% growth  
+- Supported clinical and reimbursement decision-making using patient-level data  
 
-### ☁️ Cloud & Infra
-- AWS (SAA-C03 Certified)  
-- GCP (BigQuery, Vertex AI)  
-- Docker, Kubernetes  
-- Spark, Kafka
+**Johnson & Johnson (2019 – 2021)**  
+- Conducted procedure-level analytics to drive $400K+ product adoption  
+- Increased flagship product revenue by $4.3M through data-informed strategy  
 
 ---
 
-## 🏥 Domain Expertise
+## Selected Projects
 
-- Healthcare claims (ICD-10, CPT, DRG, NDC)
-- EHR / clinical workflows
-- Population health & cost modeling
-- Healthcare operations & resource allocation
+**Cancer Cost Trajectory Modeling**  
+- Modeled longitudinal healthcare costs using GBTM on large-scale claims data  
+- Enabled population-level risk stratification and intervention design  
 
----
+**Nextflix Recommendation System**  
+- Built Two-Tower recommendation model on 10M interactions  
+- Improved Recall@20 from 0.0064 to 0.0665  
+- Developed production-ready inference system (FastAPI + BentoML)  
 
-## 💼 Professional Background
+**Optimizing Diabetes Care (Predict-Then-Optimize)**  
+- Designed ML + optimization framework for readmission reduction  
+- Achieved ROC AUC 0.697 and estimated $2.2M cost savings  
 
-### 🧪 Data Science & AI
-- Highmark Health (Capstone): Cost modeling, population health strategy  
-- CMU AIMSEC: Hospital-at-Home AI optimization system  
-
-### 💊 Life Sciences Industry
-- **Merck KGaA**:  
-  - Led data-driven oncology strategy  
-  - → 📈 32% portfolio growth  
-
-- **Johnson & Johnson (MedTech)**:  
-  - Data-driven surgical adoption strategy  
-  - → 💰 $4.3M revenue impact  
+**FitScience Coach (RAG-based LLM System)**  
+- Built end-to-end RAG pipeline using GPT-4o-mini + FAISS  
+- Achieved 0.857 RAGAs accuracy with interactive Streamlit interface  
 
 ---
 
-## 🎯 What I Care About
+## Education
 
-I’m especially interested in:
+**Carnegie Mellon University**  
+M.S. in Healthcare Analytics & Information Technology  
 
-- AI systems that **actually get deployed**
-- Healthcare solutions that **balance cost, quality, and access**
-- Bridging:
-  - 🧠 model performance  
-  - 📊 business impact  
-  - 🏥 clinical reality  
+**National Cheng Kung University**  
+MBA, Business Administration (Ranked 1st)
 
 ---
 
-## 📌 Selected Projects
+## Interests
 
-| Project | Focus | Impact |
-|--------|------|--------|
-| Cancer Cost Trajectory | Time series + clustering | $10M+ savings |
-| Nextflix Recommender | Two-Tower ML system | 10× recall improvement |
-| Diabetes Optimization | Predict + optimize | $2.2M savings |
-| FitScience Coach | RAG + LLM system | 0.857 accuracy |
+- AI for healthcare systems and population health  
+- Scalable ML systems and real-world deployment  
+- Bridging data science, clinical insights, and business strategy  
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
-- 📧 joannachag1028@gmail.com  
-- 💼 LinkedIn  
-- 💻 GitHub  
-
----
-
-## ⚡ Fun Fact
-
-I started in healthcare sales —  
-now I build AI systems that *replace the guesswork I used to rely on.*
+Feel free to reach out via email or connect with me on LinkedIn.
