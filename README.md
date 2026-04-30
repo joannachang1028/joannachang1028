@@ -35,19 +35,19 @@ Apache Spark, Kafka, Git/GitHub
 
 ## Experience Highlights
 
-**Highmark Health (2026 – Present)**  
+**Highmark Health (Feb-Apr, 2026)**  
 - Developed Group-Based Trajectory Modeling (GBTM) pipeline on 3K+ patients and 240K+ claims  
 - Identified cost drivers and proposed targeted interventions with ~$10M savings potential  
 
-**Carnegie Mellon University – AIMSEC (2025)**  
+**Carnegie Mellon University - AIMSEC (June-Aug, 2025)**  
 - Designed a prediction-to-optimization framework for Hospital-at-Home systems  
 - Integrated 150K+ EHR records via BigQuery to support scalable analytics  
 
-**Merck KGaA (2022 – 2024)**  
+**Merck KGaA (2022 - 2024)**  
 - Applied data-driven strategies to oncology portfolio, achieving 32% growth  
 - Supported clinical and reimbursement decision-making using patient-level data  
 
-**Johnson & Johnson (2019 – 2021)**  
+**Johnson & Johnson (2019 - 2021)**  
 - Conducted procedure-level analytics to drive $400K+ product adoption  
 - Increased flagship product revenue by $4.3M through data-informed strategy  
 
