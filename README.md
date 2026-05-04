@@ -34,16 +34,16 @@ With prior experience in life sciences (Merck, Johnson & Johnson), I bring a uni
 - Modeled longitudinal healthcare costs using GBTM on large-scale claims data  
 - Enabled population-level risk stratification and intervention design  
 
-**Nextflix - Real-Time Movie Recommendation Platform** (link)
+**[Nextflix - Real-Time Movie Recommendation Platform](https://drive.google.com/drive/folders/18HAiuQ0yyQnuoDgvkupLS_jlmGbf3RqO?usp=sharing)**
 - Built Two-Tower recommendation model on 10M interactions  
 - Improved Recall@20 from 0.0064 to 0.0665  
 - Developed production-ready inference system (FastAPI + BentoML)  
 
-**Optimizing Diabetes Care (Predict-Then-Optimize)** ([https://github.com/joannachang1028/optimizing-diabetes-care](https://github.com/joannachang1028/optimizing-diabetes-care))
+**[Optimizing Diabetes Care (Predict-Then-Optimize)](https://github.com/joannachang1028/optimizing-diabetes-care)**
 - Designed ML + optimization framework for readmission reduction  
 - Achieved ROC AUC 0.697 and estimated $2.2M cost savings  
 
-**FitScience Coach (RAG-based LLM System)** (https://github.com/joannachang1028/FitScience-Coach-RAG-Based-LLM-Learning-Portal-for-Fitness-Nutrition)
+**[FitScience Coach (RAG-based LLM System)](https://github.com/joannachang1028/FitScience-Coach-RAG-Based-LLM-Learning-Portal-for-Fitness-Nutrition)**
 - Built end-to-end RAG pipeline using GPT-4o-mini + FAISS  
 - Achieved 0.857 RAGAs accuracy with interactive Streamlit interface  
 
