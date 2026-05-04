@@ -1,6 +1,6 @@
 # Joanna (Chiao-Ting) Chang
 
-📧 joannachang1028@gmail.com | 💼 LinkedIn | 📍 Pittsburgh, PA, USA  
+📧 joannachang1028@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/chiao-ting-joanna-chang/) | 📍 Pittsburgh, PA, USA (Open to relocate)
 🎓 Carnegie Mellon University (MS Healthcare Analytics & IT, May 2026)
 
 ## Summary
