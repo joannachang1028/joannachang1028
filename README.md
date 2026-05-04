@@ -3,8 +3,6 @@
 📧 joannachang1028@gmail.com | 💼 LinkedIn | 📍 Pittsburgh, PA, USA  
 🎓 Carnegie Mellon University (MS Healthcare Analytics & IT, May 2026)
 
----
-
 ## Summary
 
 I am a Healthcare Data Scientist/Analyst with expertise in healthcare analytics, predictive modeling, and large-scale data systems.
@@ -12,8 +10,6 @@ I am a Healthcare Data Scientist/Analyst with expertise in healthcare analytics,
 My work focuses on developing and deploying data-driven solutions for real-world problems in healthcare, including cost modeling, population health optimization, and AI-powered decision support systems. I am particularly interested in integrating machine learning, optimization, and domain knowledge to improve care delivery and resource allocation.
 
 With prior experience in life sciences (Merck, Johnson & Johnson), I bring a unique perspective in translating complex clinical and operational data into actionable insights that drive measurable impact.
-
----
 
 ## Technical Skills
 
@@ -30,8 +26,6 @@ ETL / ELT Pipelines, Feature Engineering, Data Validation, Model Monitoring, MLO
 **Cloud & Tools**  
 AWS (SAA-C03), Google Cloud Platform (BigQuery, Vertex AI), Docker, Kubernetes,  
 Apache Spark, Kafka, Git/GitHub  
-
----
 
 ## Experience Highlights
 
@@ -50,8 +44,6 @@ Apache Spark, Kafka, Git/GitHub
 **Johnson & Johnson (2019 - 2021)**  
 - Conducted procedure-level analytics to drive $400K+ product adoption  
 - Increased flagship product revenue by $4.3M through data-informed strategy  
-
----
 
 ## Selected Projects
 
@@ -72,25 +64,16 @@ Apache Spark, Kafka, Git/GitHub
 - Built end-to-end RAG pipeline using GPT-4o-mini + FAISS  
 - Achieved 0.857 RAGAs accuracy with interactive Streamlit interface  
 
----
-
 ## Education
 
-**Carnegie Mellon University**  
-M.S. in Healthcare Analytics & Information Technology  
-
-**National Cheng Kung University**  
-MBA, Business Administration (Ranked 1st)
-
----
+M.S. in Healthcare Analytics & Information Technology, Carnegie Mellon University
+MBA, Business Administration, National Cheng Kung University
 
 ## Interests
 
 - AI for healthcare systems and population health  
 - Scalable ML systems and real-world deployment  
 - Bridging data science, clinical insights, and business strategy  
-
----
 
 ## Get in Touch
 
