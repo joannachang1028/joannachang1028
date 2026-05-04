@@ -13,37 +13,20 @@ With prior experience in life sciences (Merck, Johnson & Johnson), I bring a uni
 
 ## Technical Skills
 
-**Programming**  
-Python (Pandas, Scikit-learn, PyTorch, TensorFlow), SQL, R  
+**Programming:** Python (Pandas, Scikit-learn, PyTorch, TensorFlow), SQL, R  
 
-**AI / Machine Learning**  
-Machine Learning, Deep Learning, Large Language Models (RAG, evaluation),  
-Time Series Analysis, Anomaly Detection, NLP, Predictive Modeling, Causal Inference  
+**AI / Machine Learning:**  Machine Learning, Deep Learning, Large Language Models (RAG, evaluation), Time Series Analysis, Anomaly Detection, NLP, Predictive Modeling, Causal Inference  
 
-**Data & Systems**  
-ETL / ELT Pipelines, Feature Engineering, Data Validation, Model Monitoring, MLOps  
+**Data & Systems:** ETL / ELT Pipelines, Feature Engineering, Data Validation, Model Monitoring, MLOps  
 
-**Cloud & Tools**  
-AWS (SAA-C03), Google Cloud Platform (BigQuery, Vertex AI), Docker, Kubernetes,  
-Apache Spark, Kafka, Git/GitHub  
+**Cloud & Tools:** AWS (SAA-C03), Google Cloud Platform (BigQuery, Vertex AI), Docker, Kubernetes, Apache Spark, Kafka, Git/GitHub  
 
 ## Experience Highlights
 
-**Highmark Health (Feb-Apr, 2026)**  
-- Developed Group-Based Trajectory Modeling (GBTM) pipeline on 3K+ patients and 240K+ claims  
-- Identified cost drivers and proposed targeted interventions with ~$10M savings potential  
-
-**Carnegie Mellon University - AIMSEC (June-Aug, 2025)**  
-- Designed a prediction-to-optimization framework for Hospital-at-Home systems  
-- Integrated 150K+ EHR records via BigQuery to support scalable analytics  
-
-**Merck KGaA (2022 - 2024)**  
-- Applied data-driven strategies to oncology portfolio, achieving 32% growth  
-- Supported clinical and reimbursement decision-making using patient-level data  
-
-**Johnson & Johnson (2019 - 2021)**  
-- Conducted procedure-level analytics to drive $400K+ product adoption  
-- Increased flagship product revenue by $4.3M through data-informed strategy  
+**Highmark Health**(Feb-Apr, 2026) Capstone Project: Developed Group-Based Trajectory Modeling (GBTM) pipeline on 3K+ patients and 240K+ claims, identifying cost drivers and proposed interventions with ~$10M savings  
+**Carnegie Mellon University - AIMSEC** (June-Aug, 2025): Integrated 150K+ EHR records via BigQuery to support scalable analytics  
+**Merck KGaA** (2022 - 2024): Applied data-driven strategies to oncology portfolio, achieving 32% growth  
+**Johnson & Johnson, MedTech**  (2019 - 2021): Increased flagship product revenue by $4.3M through data-informed strategy  
 
 ## Selected Projects
 
@@ -51,16 +34,16 @@ Apache Spark, Kafka, Git/GitHub
 - Modeled longitudinal healthcare costs using GBTM on large-scale claims data  
 - Enabled population-level risk stratification and intervention design  
 
-**Nextflix Recommendation System**  
+**Nextflix - Real-Time Movie Recommendation Platform** (link)
 - Built Two-Tower recommendation model on 10M interactions  
 - Improved Recall@20 from 0.0064 to 0.0665  
 - Developed production-ready inference system (FastAPI + BentoML)  
 
-**Optimizing Diabetes Care (Predict-Then-Optimize)**  
+**Optimizing Diabetes Care (Predict-Then-Optimize)** ([https://github.com/joannachang1028/optimizing-diabetes-care](https://github.com/joannachang1028/optimizing-diabetes-care))
 - Designed ML + optimization framework for readmission reduction  
 - Achieved ROC AUC 0.697 and estimated $2.2M cost savings  
 
-**FitScience Coach (RAG-based LLM System)**  
+**FitScience Coach (RAG-based LLM System)** (https://github.com/joannachang1028/FitScience-Coach-RAG-Based-LLM-Learning-Portal-for-Fitness-Nutrition)
 - Built end-to-end RAG pipeline using GPT-4o-mini + FAISS  
 - Achieved 0.857 RAGAs accuracy with interactive Streamlit interface  
 
