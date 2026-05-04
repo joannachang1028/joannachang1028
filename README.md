@@ -49,7 +49,7 @@ With prior experience in life sciences (Merck, Johnson & Johnson), I bring a uni
 
 ## Education
 
-M.S. in Healthcare Analytics & Information Technology, Carnegie Mellon University
+M.S. in Healthcare Analytics & Information Technology, Carnegie Mellon University\
 MBA, Business Administration, National Cheng Kung University
 
 ## Interests
